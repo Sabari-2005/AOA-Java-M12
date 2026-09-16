@@ -21,8 +21,8 @@ Given text string with length n and a pattern with length m, the task is to prin
 ## Program:
 ```
 /*
-Developed by: HEMANATH K
-Register Number:  212223100012
+Developed by: Sabarinath R
+Register Number:  212223100048
 */
 import java.util.Scanner;
 
